@@ -1025,7 +1025,7 @@ ideogram <- function(karyotype, overlaid = NULL, label = NULL, label_type = NULL
                   "<!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\"",
                   "\"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\">",
                   "",
-                  paste("<svg id=\"svg\" width=\"744.0945\" height=\"1052.362\">", "\t")
+                  paste("<svg id=\"svg\"  xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" width=\"744.0945\" height=\"1052.362\">", "\t")
   )
 
 
